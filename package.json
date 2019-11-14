@@ -6,9 +6,11 @@
   "author": "isoppp <prog@d2deck.com>",
   "license": "MIT",
   "scripts": {
-    "course1": "parcel ./course1/index.html"
+    "course1-1": "parcel ./course1/first-threejs-webpage/index.html",
+    "course1-2": "browser-sync ./course1/planets"
   },
   "dependencies": {
+    "browser-sync": "^2.26.7",
     "parcel-bundler": "^1.12.4",
     "three": "^0.110.0"
   }
