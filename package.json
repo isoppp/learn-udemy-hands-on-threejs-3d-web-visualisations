@@ -1,0 +1,15 @@
+{
+  "name": "learn-udemy-hands-on-threejs-3d-web-visualisations",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/isoppp/learn-udemy-hands-on-threejs-3d-web-visualisations.git",
+  "author": "isoppp <prog@d2deck.com>",
+  "license": "MIT",
+  "scripts": {
+    "course1": "parcel ./course1/index.html"
+  },
+  "dependencies": {
+    "parcel-bundler": "^1.12.4",
+    "three": "^0.110.0"
+  }
+}
