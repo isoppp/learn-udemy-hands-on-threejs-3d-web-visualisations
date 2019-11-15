@@ -5,10 +5,6 @@
   "repository": "https://github.com/isoppp/learn-udemy-hands-on-threejs-3d-web-visualisations.git",
   "author": "isoppp <prog@d2deck.com>",
   "license": "MIT",
-  "scripts": {
-    "course1-1": "parcel ./course1/first-threejs-webpage/index.html",
-    "course1-2": "browser-sync ./course1/planets"
-  },
   "dependencies": {
     "browser-sync": "^2.26.7",
     "parcel-bundler": "^1.12.4",
