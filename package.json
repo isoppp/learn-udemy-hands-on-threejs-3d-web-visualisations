@@ -8,6 +8,7 @@
   "dependencies": {
     "browser-sync": "^2.26.7",
     "parcel-bundler": "^1.12.4",
-    "three": "^0.110.0"
+    "three": "^0.110.0",
+    "three-orbitcontrols": "^2.110.1"
   }
 }
